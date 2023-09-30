@@ -8,7 +8,7 @@
 
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 
-- 👩‍💻 I’m currently working as a Associate Software Engineer.
+- 👩‍💻 I’m currently working as an Associate Software Engineer.
 
 - 🌱 I’m currently learning React JS, Node JS and React Native.
 
