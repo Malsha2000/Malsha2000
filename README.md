@@ -8,9 +8,9 @@
 
 - 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
 
-- 👩‍💻 I’m currently working as an Associate Software Engineer.
+- 👩‍💻 I’m currently working as an Associate Software Engineer at ICP Technologies.
 
-- 🌱 I’m currently learning React JS, Node JS and React Native.
+- 🌱 I’m currently learning React JS, Node JS, Next JS, Nest JS and React Native.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
