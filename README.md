@@ -4,13 +4,13 @@
 
 <h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
 
-- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
+- 👩‍💻 I’m currently working as a Software Engineer at PCS Techno Sri Lanka.
 
-- 📚 I'm Undergraduate Sri Lanka Institute of Information Technology(SLIIT)
+- 🎓 I've graduated from SLIIT with a BSc. (Hons.) degree in Information Technology, specializing in Software Engineering, in September 2024.
 
-- 👩‍💻 I’m currently working as an Associate Software Engineer at ICP Technologies.
+- 📚 I have 4 years working experience as a software engineer.
 
-- 🌱 I’m currently learning React JS, Node JS, Next JS, Nest JS and React Native.
+- 🌱 I’m currently learning React JS, Node JS, Next.JS, Nest.JS, TypeScript and React Native.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
